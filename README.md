@@ -9,8 +9,8 @@ Battle-hardened distributed locking using redis.
 
 ## Requirements
 
-* [node-redis](https://github.com/mranney/node_redis) compatible with `v0.10`
-* Redis `v2.6.12` or above. If you're running a Redis version from `v2.6.0` to `v2.6.11` inclusive use `v0.0.7` of this module.
+* [node-redis](https://github.com/mranney/node_redis) compatible with `=> v2.0.0`
+* Redis `v2.6.12` or above.
 
 ## Install
 
